@@ -1,0 +1,1 @@
+# Go-Log-Shipper\n\n## Overview\nEnterprise-grade log shipper implementation in Go.\n\n## Quick Start (1-Click Build)\n\n```bash\ngit clone https://github.com/skylerblue4444/Go-Log-Shipper.git\ncd Go-Log-Shipper\n# Build instructions depend on the language\n```\n

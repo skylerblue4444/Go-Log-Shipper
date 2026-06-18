@@ -1,0 +1,1 @@
+module go-log-shipper\n\ngo 1.21\n
